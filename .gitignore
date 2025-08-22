@@ -1,0 +1,8 @@
+buddy/
+Materials/
+StudyBuddy.egg-info/
+logs/
+imp_files.txt
+test_ai_agents.py
+.vscode/
+.env
